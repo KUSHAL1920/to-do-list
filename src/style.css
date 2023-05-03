@@ -1,0 +1,32 @@
+h5{
+    padding: 2px;
+    font-size: medium;
+    margin: 10px;
+}
+.button{
+    
+}
+.save{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px;
+}
+.close{
+    background-color: grey;
+    border-radius: 10px;
+    padding: 10px;
+}
+.x{
+    margin-left: 25vw;
+    margin-top: 10px;
+}
+div{
+    margin: 10px;
+}
+a{
+    margin: 2px;
+    text-decoration: none;
+}
+.item{
+    text-align: center;
+}
